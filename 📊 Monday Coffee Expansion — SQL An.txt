@@ -1,0 +1,121 @@
+📊 Monday Coffee Expansion — SQL Analytics Project
+
+☕ Overview
+
+Monday Coffee is an online coffee retailer operating across major Indian cities since January 2023. This project analyzes the company’s sales, customer behavior, and market potential using SQL. The final goal is to recommend the top three Indian cities for opening new physical coffee shops based on data-driven insights.
+
+🎯 Project Objectives
+
+Understand coffee consumption patterns across cities
+
+Analyze sales performance and product demand
+
+Segment customers and evaluate city-wise profitability
+
+Identify high‑potential markets for expansion
+
+Provide actionable insights using SQL queries and structured analysis
+
+🗂 Dataset Description
+
+The project uses multiple tables:
+
+Table
+
+Description
+
+customers
+
+Customer details including city
+
+products
+
+Coffee product catalog
+
+sales
+
+Transaction-level sales data
+
+city_population
+
+Population data for each city
+
+city_rent
+
+Average rent estimates per customer/city
+
+🔍 Key SQL Questions & Insights
+
+1. Coffee Consumers Count
+
+Estimate coffee consumers per city assuming 25% of the population consumes coffee.
+
+2. Total Revenue (Q4 2023)
+
+Calculate total coffee sales revenue from Oct–Dec 2023.
+
+3. Product Sales Count
+
+Find total units sold for each coffee product.
+
+4. Average Sales Amount per City
+
+Compute average sales per customer for each city.
+
+5. City Population & Coffee Consumers
+
+List cities with population and estimated coffee-consuming population.
+
+6. Top 3 Selling Products by City
+
+Rank products by sales volume for each city.
+
+7. Customer Segmentation
+
+Count unique customers purchasing coffee products in each city.
+
+8. Average Sale vs Rent
+
+Compare average sale per customer with average rent per customer for each city.
+
+9. Monthly Sales Growth
+
+Calculate month‑over‑month sales growth percentage.
+
+10. Market Potential Analysis
+
+Identify top 3 cities based on:
+
+Highest total sales
+
+Total rent
+
+Total customers
+
+Estimated coffee consumers
+
+🛠 Tech Stack
+
+SQL (MySQL / PostgreSQL / SQL Server)
+
+Excel / Power BI / Python (optional) for visualization
+
+📝 Final Deliverables
+
+Complete SQL query set
+
+City-wise insights
+
+Product performance analysis
+
+Market potential ranking
+
+Expansion recommendations
+
+🏆 Final Recommendation
+
+Based on the analysis, the project outputs the top 3 cities with the strongest market potential for opening new Monday Coffee shops.
+
+
+
+1	
